@@ -1,6 +1,8 @@
 # SMW Trolls ROM Patcher
 
 Desktop application for applying BPS patches to Super Mario World ROMs and launching them automatically.
+<img width="550" height="340" alt="image" src="https://github.com/user-attachments/assets/8f8054f2-89ad-49bb-a3db-d430f20eaf45" />
+
 
 ## Features
 
