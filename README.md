@@ -44,3 +44,7 @@ Desktop application for applying BPS patches to Super Mario World ROMs and launc
 
 Settings are saved to `~/.smwtrolls_patcher.json` and persist between sessions.
 
+## Credits
+
+This application uses **[Flips](https://github.com/Alcaro/Flips)** (Floating IPS) for reliable BPS patch application. Flips is an excellent patcher for IPS and BPS files developed by Alcaro. If you place `flips.exe` in the same folder as this application, it will be automatically used for more reliable patch application. Many thanks to the Flips project!
+
